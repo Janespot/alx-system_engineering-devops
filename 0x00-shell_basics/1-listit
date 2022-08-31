@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 1-listit
+less 1-listit
