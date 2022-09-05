@@ -1,4 +1,4 @@
-#Shell, I/O Redirections and Filters
+# Shell, I/O Redirections and Filters
 The following are the files contained in the **0x02-shell_redirections** folder and their purpose:-
 
 -**0-hello_world**
