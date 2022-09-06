@@ -2,7 +2,7 @@
 
 ==DevOps==
 ==Shell==
-==Bash==
+== Bash ==
 
 -**0-alias**
 Create a script that creates an alias.
