@@ -1,8 +1,6 @@
 # Shell, init files, variables and expansions
 
-==DevOps==
-==Shell==
-<mark>Bash</mark>
+### DevOps; Shell; Bash
 
 -**0-alias**
 Create a script that creates an alias.
